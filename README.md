@@ -16,6 +16,7 @@ Duc | July 25
 Wife | August 5
 TECA | August 14
 Asland | September 13
+Chocolate Queen | October 5
 Mammoth | October 19
 Harvey | November 4
 Kore | November 22
