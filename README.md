@@ -2,6 +2,7 @@
 
 Member | Birthday
 ------ | --------
+Lucius | Every Day
 Rooster | March 26
 Nanya | April 19
 Ogid | June 13
