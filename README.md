@@ -3,6 +3,7 @@
 Member | Birthday
 ------ | --------
 Lucius | Every Day
+Alex | February 6
 Rover | February 14
 Rooster | March 26
 Nanya | April 19
