@@ -5,6 +5,7 @@ Member | Birthday
 Lucius | Every Day
 Rooster | March 26
 Nanya | April 19
+Sparrow | May 13
 Ogid | June 13
 Duc | July 25
 TECA | August 14
