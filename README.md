@@ -3,6 +3,7 @@
 Member | Birthday
 ------ | --------
 Lucius | Every Day
+Paulie | 5th Dimension
 Alex | February 6
 Rover | February 14
 Rooster | March 26
