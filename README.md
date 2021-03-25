@@ -10,6 +10,7 @@ Nanya | April 19
 Lucas | May 6
 Sparrow | May 13
 Dean | May 29
+Batman | June 11
 Ogid | June 13
 tphez | June 25
 Duc | July 25
